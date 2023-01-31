@@ -1,6 +1,5 @@
-# sacode Online 2023 Day02
-Topik : Mengenal HTML
+# Publikasi Web statis menggunakan GitHub Pages
 
-## Lihat Hasil di GitHub Pages
+Lihat Demo di sini : https://yohanesaragae.github.io/sacode-online-2023-day02/
 
-https://yohanesaragae.github.io/sacode-online-2023-day02/
+[LIHAT DEMO] (https://yohanesaragae.github.io/publikasi-web-statis-gunakan-github-pages/)
